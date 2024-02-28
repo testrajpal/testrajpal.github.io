@@ -16,6 +16,12 @@
           "/lakeview"
         ]
       }
+      {
+        "appID": "BBZJ556969.com.loancareapp.PremiumMortgageApp",
+        "paths": [
+          "/pmc"
+        ]
+      }
     ]
   }
 }
