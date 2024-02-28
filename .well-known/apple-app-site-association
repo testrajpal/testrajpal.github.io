@@ -9,6 +9,12 @@
         "paths": [
           "/loancare"
         ]
+      },
+      {
+        "appID": "BBZJ556969.com.loancareapp.LakeViewApp",
+        "paths": [
+          "/lakeview"
+        ]
       }
     ]
   }
