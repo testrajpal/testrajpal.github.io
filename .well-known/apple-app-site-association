@@ -6,11 +6,8 @@
     "details": [
       {
         "appID": "BBZJ556969.com.loancareapp.LoanCareApp",
-        "components": [
-          {
-            "/": "*",
-            "comment": "Matches any URL whose path starts with /stock/"
-          }
+        "paths": [
+          "*"
         ]
       },
       {
