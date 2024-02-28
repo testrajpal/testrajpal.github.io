@@ -1,0 +1,15 @@
+{
+  "applinks": {
+    "apps": [
+      ""
+    ],
+    "details": [
+      {
+        "appID": "BBZJ556969.com.loancareapp.LoanCareApp",
+        "paths": [
+          "*"
+        ]
+      }
+    ]
+  }
+}
