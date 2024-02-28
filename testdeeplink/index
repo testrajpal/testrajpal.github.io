@@ -1,0 +1,12 @@
+{
+  “applinks”: {
+  “apps”: [“6467651368.com.loancareapp.LoanCareApp”],
+  “details”: [
+      {
+		“appID”: “6467651368.com.loancareapp.LoanCareApp”,
+        “paths”: [“/loancare”]
+
+      }
+    ]
+  }
+}
