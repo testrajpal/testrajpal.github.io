@@ -1,16 +1,11 @@
 {
   "applinks": {
-    "details": [
+  "apps": [""],
+  "details": [
       {
-        "appIDs": [
-          "BBZJ556969.com.loancareapp.LoanCareApp"
-        ],
-        "components": [
-          {
-            "/": "/loancare/*",
-            "comment": "Matches any URL whose path starts with /loancare/"
-          }
-        ]
+        "appID": "BBZJ556969.com.loancareapp.LoanCareApp",
+        "paths": ["*"]
+
       }
     ]
   }
