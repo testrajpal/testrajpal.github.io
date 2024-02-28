@@ -1,6 +1,6 @@
 {
   "applinks": {
-  "apps": ["BBZJ556969.com.loancareapp.LoanCareApp"],
+  "apps": [],
   "details": [
       {
 		"appID": "BBZJ556969.com.loancareapp.LoanCareApp",
@@ -9,5 +9,5 @@
       }
     ]
   }
-  
+
 }
