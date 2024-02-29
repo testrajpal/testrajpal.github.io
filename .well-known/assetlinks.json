@@ -8,5 +8,25 @@
         "7E:42:A7:42:E6:3F:6C:A1:F7:A6:91:01:5E:55:0D:18:8A:29:0F:2A:3C:2A:2B:F6:FD:6E:FB:11:D7:F6:88:16"
       ]
     }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.loancareapp.LakeViewApp.UatApp",
+      "sha256_cert_fingerprints": [
+        "7E:42:A7:42:E6:3F:6C:A1:F7:A6:91:01:5E:55:0D:18:8A:29:0F:2A:3C:2A:2B:F6:FD:6E:FB:11:D7:F6:88:16"
+      ]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.loancareapp.PremiumMortgageApp.UatApp",
+      "sha256_cert_fingerprints": [
+        "7E:42:A7:42:E6:3F:6C:A1:F7:A6:91:01:5E:55:0D:18:8A:29:0F:2A:3C:2A:2B:F6:FD:6E:FB:11:D7:F6:88:16"
+      ]
+    }
   }
 ]
