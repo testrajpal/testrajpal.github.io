@@ -1,10 +1,10 @@
 {
   "applinks": {
-    "apps": ["6467651368.com.loancareapp.LakeViewApp"],
+    "apps": [""],
     "details": [
       {
         "appID": "6467651368.com.loancareapp.LakeViewApp",
-        "paths": ["/lakeview"]
+        "paths": ["/lakeview/*"]
       }
     ]
   }
