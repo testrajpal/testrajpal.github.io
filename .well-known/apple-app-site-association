@@ -5,25 +5,6 @@
     ],
     "details": [
       {
-        "components": [
-          {
-            "/": "/loancare/*",
-            "exclude": true,
-            "comment": "Matches any URL with a path that starts with /lakeview/* and instructs the system not to open it as a universal link."
-          },
-          {
-            "/": "/lakeview/*",
-            "exclude": true,
-            "comment": "Matches any URL with a path that starts with /lakeview/* and instructs the system not to open it as a universal link."
-          },
-          {
-            "/": "/pmc/*",
-            "exclude": true,
-            "comment": "Matches any URL with a path that starts with /pmc/* and instructs the system not to open it as a universal link."
-          }
-        ]
-      },
-      {
         "appID": "BBZJ556969.com.loancareapp.LakeViewApp",
         "paths": [
           "/lakeview"
