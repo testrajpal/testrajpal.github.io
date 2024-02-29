@@ -5,10 +5,6 @@
     ],
     "details": [
       {
-        "appID": "BBZJ556969.com.loancareapp.LoanCareApp",
-        "paths": [
-          "/loancare/"
-        ],
         "components": [
           {
             "/": "/loancare/*",
@@ -43,12 +39,6 @@
         "appID": "BBZJ556969.com.loancareapp.LakeViewApp",
         "paths": [
           "/loancare"
-        ]
-      },
-      {
-        "appID": "BBZJ556969.com.loancareapp.PremiumMortgageApp",
-        "paths": [
-          "/pmc"
         ]
       }
     ]
