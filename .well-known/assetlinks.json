@@ -28,5 +28,15 @@
         "7E:42:A7:42:E6:3F:6C:A1:F7:A6:91:01:5E:55:0D:18:8A:29:0F:2A:3C:2A:2B:F6:FD:6E:FB:11:D7:F6:88:16"
       ]
     }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.loancareapp.LoanCareApp.Prod",
+      "sha256_cert_fingerprints": [
+        "25:80:FC:7B:95:C5:DF:71:F2:AE:00:6F:F1:AD:9F:B5:E0:5C:67:E5:A5:F0:C8:7C:B3:B8:F7:BE:63:25:09:F7"
+      ]
+    }
   }
 ]
