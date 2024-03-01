@@ -8,15 +8,5 @@
         "FA:C6:17:45:DC:09:03:78:6F:B9:ED:E6:2A:96:2B:39:9F:73:48:F0:BB:6F:89:9B:83:32:66:75:91:03:3B:9C"
       ]
     }
-  },
-  {
-    "relation": ["delegate_permission/common.handle_all_urls"],
-    "target": {
-      "namespace": "android_app",
-      "package_name": "com.loancareapp.LakeViewApp.UatApp",
-      "sha256_cert_fingerprints": [
-        "25:80:FC:7B:95:C5:DF:71:F2:AE:00:6F:F1:AD:9F:B5:E0:5C:67:E5:A5:F0:C8:7C:B3:B8:F7:BE:63:25:09:F7"
-      ]
-    }
   }
 ]
