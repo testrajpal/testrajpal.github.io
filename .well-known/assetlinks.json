@@ -1,6 +1,9 @@
 [
   {
-    "relation": ["delegate_permission/common.handle_all_urls"],
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "https://testrajpal.github.io"
+    ],
     "target": {
       "namespace": "android_app",
       "package_name": "com.loancareapp.LoanCareApp.UatApp",
@@ -10,7 +13,10 @@
     }
   },
   {
-    "relation": ["delegate_permission/common.handle_all_urls"],
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "https://testrajpal.github.io"
+    ],
     "target": {
       "namespace": "android_app",
       "package_name": "com.loancareapp.LakeViewApp.UatApp",
@@ -20,7 +26,10 @@
     }
   },
   {
-    "relation": ["delegate_permission/common.handle_all_urls"],
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "https://testrajpal.github.io"
+    ],
     "target": {
       "namespace": "android_app",
       "package_name": "com.loancareapp.PremiumMortgageApp.UatApp",
