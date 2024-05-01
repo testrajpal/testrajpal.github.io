@@ -7,19 +7,25 @@
       {
         "appID": "BBZJ556969.com.loancareapp.LoanCareApp",
         "paths": [
-          "/payments/*"
+          "/payments/*",
+          "/transactions/*",
+          "/documents/*"
         ]
       },
       {
         "appID": "BBZJ556969.com.loancareapp.LakeViewApp",
         "paths": [
-          "/payments/*"
+          "/payments/*",
+          "/transactions/*",
+          "/documents/*"
         ]
       },
       {
         "appID": "BBZJ556969.com.loancareapp.PremiumMortgageApp",
         "paths": [
-          "/payments/*"
+          "/payments/*",
+          "/transactions/*",
+          "/documents/*"
         ]
       }
     ]
