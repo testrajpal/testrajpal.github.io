@@ -13,13 +13,13 @@
       {
         "appID": "BBZJ556969.com.loancareapp.LakeViewApp",
         "paths": [
-          "/lakeview/*"
+          "/payments/*"
         ]
       },
       {
         "appID": "BBZJ556969.com.loancareapp.PremiumMortgageApp",
         "paths": [
-          "/pmc/*"
+          "/payments/*"
         ]
       }
     ]
